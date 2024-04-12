@@ -1,7 +1,7 @@
 ### The ArcoLinux Project: Understanding the 7 W's
 
 **What:**
-ArcoLinux is a comprehensive Linux distribution based on Arch Linux. It's designed to educate users about Linux and provide a deep understanding of the operating system. The project offers various versions, including ArcoLinux, ArcoLinuxD, and ArcoLinuxB, catering to different user expertise levels—from beginners to advanced users.
+ArcoLinux is a comprehensive Linux distribution based on Arch Linux. It's designed to educate users about Linux and provide a deep understanding of the operating system. The project offers various versions, including arconet, arcopro, and arconet, catering to different user expertise levels—from beginners to advanced users.
 
 **Who:**
 The project is primarily for users who wish to learn about Linux systems, ranging from enthusiasts and students to professionals seeking a customizable computing environment. It's developed and maintained by a community of developers passionate about making Linux accessible and customizable.
@@ -17,9 +17,9 @@ ArcoLinux is an ongoing project with continuous updates and iterations. It was f
 
 **Which:**
 The project includes several key components:
-- **ArcoLinux:** A full-featured version with numerous pre-installed applications and a polished desktop environment.
-- **ArcoLinuxD:** A minimal version that allows users to install and add components as they learn, offering a more DIY approach.
-- **ArcoLinuxB:** A build-your-own version that lets users create a custom ISO with chosen applications and desktop environments.
+- **arconet:** A minimal Xfce4 with several pre-installed applications and a polished desktop environment.
+- **arcopro:** A minimal version that allows users to install and add components as they learn, offering a more DIY approach.
+- **arcoplasma:** A minimal Plasma ISO you can expand with more apps and also Hyprland or Wayfire.
 
 **Way:**
 ArcoLinux approaches user education through a structured learning path, providing extensive documentation, video tutorials, and support through its community forums. The distribution features a modular setup where users can incrementally add or remove components, thereby learning about each element of the system.
