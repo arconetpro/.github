@@ -34,3 +34,5 @@ ArcoLinux approaches user education through a structured learning path, providin
 In summary, ArcoLinux aims to demystify the complexities of Arch Linux, making it approachable and engaging through a hands-on learning experience. This initiative not only enhances the user's knowledge of Linux but also fosters a broader understanding of open-source principles and practices.
 
 Stay connected with us across various platforms! You can join us on Discord, Telegram, Mewe, Mastodon, Element and Facebook for community discussions, updates, and support. For tutorials and exclusive content, check out our YouTube channel.
+
+Don't miss out our latest announcements on Telegram, Discord and Youtube.
