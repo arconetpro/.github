@@ -35,4 +35,4 @@ In summary, ArcoLinux aims to demystify the complexities of Arch Linux, making i
 
 Stay connected with us across various platforms! You can join us on Discord, Telegram, Mewe, Mastodon, Element and Facebook for community discussions, updates, and support. For tutorials and exclusive content, check out our YouTube channel.
 
-Don't miss out our latest announcements on Telegram, Discord and Youtube.
+Don't miss our latest announcements on Telegram, Discord and Youtube.
